@@ -1,0 +1,6 @@
+Applications:
+    mp_fluid:
+        app_types:
+            - mp_fluidApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
